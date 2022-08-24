@@ -12,6 +12,9 @@
   },
   "keywords": [],
   "author": "VK",
-  "license": "MIT"
- 
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Krasimir-Hristov/First-Back-End-Project-/issues"
+  },
+  "homepage": "https://github.com/Krasimir-Hristov/First-Back-End-Project-#readme"
 }
