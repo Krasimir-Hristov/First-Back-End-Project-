@@ -1,8 +1,8 @@
 {
     "asdf1234": {
-        "name": "BMW",
+        "name": "BMW M5 X Drive",
         "imgURL": "BMW.jpg",
-        "description": "100.000 km. like new",
-        "price": 300.000
+        "description": "100000 km. like new",
+        "price": 300000
     }
 }
